@@ -37,14 +37,9 @@
 
 
 
-
-
+1. Total Segmentation 데이터를 통해서 기본 모델 구축
+2. Kaggle 및 심혈관계 데이터 Semi 라벨링 진행
+3. Semi 라벨링 데이터를 통한 모델 성능 향상
 ---
-Use the cta images to segment the cardiovascular system.
 
 
-### Role 
-* 인공지능 기반 심장혈관 자동 의료영상 구역화 및 3D 형상화 기술 개발
-* 3D 모델링 시뮬레이션 SW 커플링 및 UI/UX 개발
-* 생체신호 연계 심장혈관계 질환 디지털 시뮬레이션 예측/진단/모니터링 기술 개발
-* 대동맥, 모세혈관 등 다양한 직경을 가진 심장 질환 3D 생체모사 개발 및 혈액 종류별 전단율에 따른 점탄성 물성치 DB 구축
